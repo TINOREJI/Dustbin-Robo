@@ -10,10 +10,12 @@ Gdrive Link:- https://drive.google.com/drive/folders/1Jiv-ZZXWE-Lx_bKVs3TNWEEFR3
 - Refine the shape using Bevel and Subdivision modifiers.
 - Design the lid, bottom, and handle for the lid.
 ![image](https://github.com/TINOREJI/Dustbin-Robo/assets/95184183/a066b59f-a8c5-48aa-ac53-af6ddbda9a7f)
-![image](https://github.com/TINOREJI/Dustbin-Robo/assets/95184183/9ffcc621-68d5-44f8-a3e0-778bf15e2270)
-![image](https://github.com/TINOREJI/Dustbin-Robo/assets/95184183/762c9506-7a47-4005-a8b8-bbef2b85ecfd)#### Dustbin
 
-![image](https://github.com/TINOREJI/Dustbin-Robo/assets/95184183/7d94b11b-97ef-4c42-ada1-49a08957b038)#### LID
+![image](https://github.com/TINOREJI/Dustbin-Robo/assets/95184183/9ffcc621-68d5-44f8-a3e0-778bf15e2270)
+
+![image](https://github.com/TINOREJI/Dustbin-Robo/assets/95184183/762c9506-7a47-4005-a8b8-bbef2b85ecfd)
+
+![image](https://github.com/TINOREJI/Dustbin-Robo/assets/95184183/7d94b11b-97ef-4c42-ada1-49a08957b038)
 
 ### Constructing the Legs
 - Begin with a plane primitive and form the leg shape through extrusion.
@@ -64,19 +66,23 @@ Gdrive Link:- https://drive.google.com/drive/folders/1Jiv-ZZXWE-Lx_bKVs3TNWEEFR3
 ## Part 4: Export Model in Unity
 - Export the model from Blender to Unity for further development and integration.
 ![image](https://github.com/TINOREJI/Dustbin-Robo/assets/95184183/15bdf5f6-8500-4341-8f3d-d7f704126326)
-![Uploading image.png…]()
+
+![image](https://github.com/TINOREJI/Dustbin-Robo/assets/95184183/27d2dbea-c0ba-4d2d-aeab-86451d6ff8b1)
+
 
 ## Part 5: Texture and Materials
 - Apply textures and materials to the dustbin robot and environment to enhance visual appeal.
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
+![image](https://github.com/TINOREJI/Dustbin-Robo/assets/95184183/457b4bda-dfeb-4aa3-990b-4a6269408405)
+
+![image](https://github.com/TINOREJI/Dustbin-Robo/assets/95184183/d282b742-69a5-40cf-8f5e-f8e968f6441d)
+
+
 
 ## Part 6: Final Rendered Output
 - Render the final animation of the dustbin robot and its environment for presentation or further use.
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
+
+
+
 
 ## Conclusion
 This project provides a comprehensive guide to designing, animating, and exporting a dustbin robot using Blender, with additional instructions for camera adjustments, rigging, and texture application. The final output can be used in Unity for various applications.
