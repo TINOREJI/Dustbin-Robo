@@ -81,8 +81,11 @@ Gdrive Link:- https://drive.google.com/drive/folders/1Jiv-ZZXWE-Lx_bKVs3TNWEEFR3
 ## Part 6: Final Rendered Output
 - Render the final animation of the dustbin robot and its environment for presentation or further use.
 
+![image](https://github.com/TINOREJI/Dustbin-Robo/assets/95184183/6a0100ad-4091-47a3-ae35-050e8a3cbbd9)
 
+![image](https://github.com/TINOREJI/Dustbin-Robo/assets/95184183/695e9237-444a-444e-99fb-4f4434803ce2)
 
+![image](https://github.com/TINOREJI/Dustbin-Robo/assets/95184183/9218589c-181c-4697-8930-e0bfaa17a99a)
 
 ## Conclusion
 This project provides a comprehensive guide to designing, animating, and exporting a dustbin robot using Blender, with additional instructions for camera adjustments, rigging, and texture application. The final output can be used in Unity for various applications.
